@@ -73,10 +73,13 @@ Predict Azure resource usage accurately and optimize capacity planning.
 
 ## Storage
 <img width="1868" height="905" alt="image" src="https://github.com/user-attachments/assets/dd5a3972-80d2-43b4-a916-be51a0c20a94" />
+
 ## Forecast
 <img width="1885" height="905" alt="image" src="https://github.com/user-attachments/assets/39d47ab0-763c-4c48-8029-9d62ac827418" />
+
 ## Features
 <img width="1892" height="892" alt="image" src="https://github.com/user-attachments/assets/a502e39d-c86e-4744-9c3d-e3fec0d3ce36" />
+
 ## Insights
 <img width="1376" height="893" alt="image" src="https://github.com/user-attachments/assets/358838f7-86d6-442f-b71a-6374b734e9ee" />
 ## Reports
