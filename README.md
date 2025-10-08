@@ -64,12 +64,10 @@ Predict Azure resource usage accurately and optimize capacity planning.
 ---
 
 ## 🖼 Screenshots / Outputs
-*(Add screenshots of your project here — e.g., dashboard, forecast charts, storage charts)*
 
-Example:
-![Dashboard Screenshot](./images/dashboard.png)  
-![Forecast Chart](./images/forecast_chart.png)  
-![Storage Pie Chart](./images/storage_chart.png)
+Dashboard
+<img width="1902" height="913" alt="image" src="https://github.com/user-attachments/assets/615832c7-7b34-4352-bde5-fe10981978c3" />
+
 
 ---
 
