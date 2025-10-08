@@ -82,11 +82,15 @@ Predict Azure resource usage accurately and optimize capacity planning.
 
 ## Insights
 <img width="1376" height="893" alt="image" src="https://github.com/user-attachments/assets/358838f7-86d6-442f-b71a-6374b734e9ee" />
+
 ## Reports
 <img width="1900" height="907" alt="image" src="https://github.com/user-attachments/assets/feedf991-29e2-4eb3-a38b-6e100539d9f7" />
+
 <img width="1780" height="907" alt="image" src="https://github.com/user-attachments/assets/39052396-99d8-4b9c-9360-9e86d0ff124b" />
+
 ## Model Comparisions
 <img width="1877" height="912" alt="image" src="https://github.com/user-attachments/assets/c95ad382-f593-4cee-bc46-88b309c2bb5e" />
+
 ## EDA Visuals
 <img width="1871" height="887" alt="image" src="https://github.com/user-attachments/assets/320e44e4-3e2c-40fd-9b38-1a4418dcd3c9" />
 <img width="1897" height="888" alt="image" src="https://github.com/user-attachments/assets/32735f7a-f3d9-4408-b878-0514a0dfd885" />
