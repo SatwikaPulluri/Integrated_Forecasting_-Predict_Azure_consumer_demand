@@ -32,8 +32,6 @@ Predict Azure resource usage accurately and optimize capacity planning.
 - **Database:** SQLite / PostgreSQL.
 - **Machine Learning:** Python (pandas, numpy, scikit-learn).
 
-*(Add architecture diagram here)*
-
 ---
 
 ## 🛠 Tech Stack
