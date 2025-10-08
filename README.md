@@ -65,7 +65,7 @@ Predict Azure resource usage accurately and optimize capacity planning.
 
 ## 🖼 Screenshots / Outputs
 
-Dashboard
+##Dashboard
 <img width="1902" height="913" alt="image" src="https://github.com/user-attachments/assets/615832c7-7b34-4352-bde5-fe10981978c3" />
 
 
